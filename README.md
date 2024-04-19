@@ -16,3 +16,6 @@ My attendance recording function is not fully functional because of lack of accu
 - Test more Siamese neural network model structures 
 - Build a web application that can be used as an interface for the program
 - Finish debugging attendance taking function.
+
+# How to run
+You can run the program by running the main file (Jupyter notebook). 
