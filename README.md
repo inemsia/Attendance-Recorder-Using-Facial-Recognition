@@ -13,10 +13,6 @@ My attendance recording function is not fully functional because of lack of accu
 
 ## Future steps
 - Improve model accuracy through modifying the training process
-
 - Test more Siamese neural network model structures 
-
 - Build a web application that can be used as an interface for the program
-
 - Finish debugging attendance taking function.
-![image](https://github.com/inemsia/Attendance-Recorder-Using-Facial-Recognition/assets/95439033/11df87ca-f220-4476-8b9e-86e11a4d9afa)
